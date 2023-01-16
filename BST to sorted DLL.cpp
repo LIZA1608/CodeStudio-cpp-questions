@@ -1,6 +1,5 @@
 /*https://www.codingninjas.com/codestudio/problems/bst-to-sorted-dll_1263694?leftPanelTab=1*/
 
-
 void convert(TreeNode<int>* root,TreeNode<int>* &head){
     if(root==NULL){
         return ;
